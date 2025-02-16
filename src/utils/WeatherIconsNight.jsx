@@ -322,7 +322,7 @@ export const WEATHERICONSNIGHT = {
     "bg-[#2E5187]/55"
   ],
   "Thundery outbreaks in nearby": [
-    <WiNightThunderstorm className="size-32 md:size-52" color="white" />,
+    <WiNightThunderstorm className="size-32 md:size-48" color="white" />,
     <WiNightThunderstorm size="30" color="white" />,
     "bg-[#2E5187]",
     "bg-[#2E5187]/55"
